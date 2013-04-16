@@ -1,0 +1,8 @@
+C:\Users\user\Documents\SharpDevelop Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\user\Documents\SharpDevelop Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\user\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\user\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.pdb
